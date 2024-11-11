@@ -14,7 +14,7 @@ Given an array of integers, find the largest product of any three numbers.
 
 ## Usage  
 ```python
-from solution import largest_product_of_three
+from solution import largest_of_three
 
 nums = [10, -10, 1, 3, 2] 
 print(largest_of_three(nums))  # Output: 60 
